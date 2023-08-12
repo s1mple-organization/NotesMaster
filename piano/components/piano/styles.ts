@@ -8,7 +8,5 @@ export default StyleSheet.create({
   },
   piano: {
     flexDirection: 'row',
-    borderWidth: 2,
-    borderColor: 'red'
   },
 });
